@@ -49,4 +49,4 @@ A powerful and automated tool for downloading videos and navigating lessons on c
 This project was created for educational and personal backup purposes. Using this tool to download copyrighted content without permission may violate the terms of service of the platform. Use responsibly.
 
 ---
-Made with ❤️ by [Your Name]
+
