@@ -20,7 +20,7 @@ A powerful and automated tool for downloading videos and navigating lessons on c
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/m3u8-video-downloader.git
+   git clone https://github.com/cegware/m3u8-video-downloader.git
    cd m3u8-video-downloader
    ```
 
